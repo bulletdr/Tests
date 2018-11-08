@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfAdminUsers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AdminUsers>
+    <Login>admin</Login>
+    <Password>admin</Password>
+  </AdminUsers>
+  <AdminUsers>
+    <Login>adm</Login>
+    <Password>adm</Password>
+  </AdminUsers>
+  <AdminUsers>
+    <Login>Roma</Login>
+    <Password>Roma</Password>
+  </AdminUsers>
+</ArrayOfAdminUsers>

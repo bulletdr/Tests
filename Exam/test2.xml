@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test name="Test2">
+  <question questionId="1" correctAnswer="1" questionText="Є такі типи політичних систем">
+    <answer answerId = "1" answerText="тоталітарна, демократична." />
+    <answer answerId = "2" answerText="тоталітарна, олігархічна" />
+    <answer answerId = "3" answerText="демократична, монархічна" />
+    <answer answerId = "4" answerText="монархічна, авторитарна" />
+  </question>
+  <question questionId="2" correctAnswer="3" questionText="Ознака нації — це">
+    <answer answerId = "1" answerText="наявність конституції" />
+    <answer answerId = "2" answerText="спільність історичного шляху" />
+    <answer answerId = "3" answerText=" єдине громадянство." />
+    <answer answerId = "4" answerText="спільність ідеології" />
+  </question>
+  <question questionId="3" correctAnswer="2" questionText="Яка сфера життя суспільства включає в себе відносини людей з приводу влади">
+    <answer answerId = "1" answerText="економічна" />
+    <answer answerId = "2" answerText="політична." />
+    <answer answerId = "3" answerText="соціальна" />
+    <answer answerId = "4" answerText="духовна" />
+  </question>
+  <question questionId="4" correctAnswer="1" questionText="Поділ суспільства на різні соціальні групи – це">
+    <answer answerId = "1" answerText="соціальна стратифікація." />
+    <answer answerId = "2" answerText="соціальна мобільність" />
+    <answer answerId = "3" answerText="соціальна інтеграція" />
+    <answer answerId = "4" answerText="соціальна дискримінація" />
+  </question>
+  <question questionId="5" correctAnswer="4" questionText="Проявом представницької демократії є">
+    <answer answerId = "1" answerText="плебісцит" />
+    <answer answerId = "2" answerText="опитування громадської думки" />
+    <answer answerId = "3" answerText="народні збори" />
+    <answer answerId = "4" answerText="парламентські вибори." />
+  </question>
+  <question questionId="6" correctAnswer="1" questionText="Громадянське суспільство відрізняється від інших типів суспільства">
+    <answer answerId = "1" answerText="правовою захищеністю громадян." />
+    <answer answerId = "2" answerText="більш високим рівнем цивілізованості" />
+    <answer answerId = "3" answerText="самостійністю і незалежністю від держави" />
+    <answer answerId = "4" answerText=" високим рівнем правосвідомості громадян" />
+  </question>
+  <question questionId="7" correctAnswer="2" questionText="Соціальний статус – це">
+    <answer answerId = "1" answerText="поведінка, очікуване від індивіда" />
+    <answer answerId = "2" answerText="становище людини в суспільстві." />
+    <answer answerId = "3" answerText="форма заохочення індивідів" />
+    <answer answerId = "4" answerText="форма здійснення социофункций" />
+  </question>
+  <question questionId="8" correctAnswer="3" questionText="Чи вірні наступні судження? Засоби масової інформації як політичний інститут:А. Надають значний вплив на позиції виборців на виборах.Б. У демократичному суспільстві вільні від цензури">
+    <answer answerId = "1" answerText="вірно тільки А" />
+    <answer answerId = "2" answerText="вірно тільки Б" />
+    <answer answerId = "3" answerText="вірно і А, і Б." />
+    <answer answerId = "4" answerText="обидва судження невірні" />
+  </question>
+</test>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <QuestionId>1</QuestionId>
+    <QuestionText>Вкажiть неiснуючий тип даних</QuestionText>
+    <CorrectAnswer>3</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>2</QuestionId>
+    <QuestionText>Вкажiть масив масивiв (Зубчатий масив)</QuestionText>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>3</QuestionId>
+    <QuestionText>До умовних конструкцiй не вiдноситься</QuestionText>
+    <CorrectAnswer>3</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>4</QuestionId>
+    <QuestionText>Вставте на мiсце *Х правельний цикл. *Х ([iнiцiалiзацiя лiчильника]; [умова]; [змiна лiчильника]){//дiя}</QuestionText>
+    <CorrectAnswer>1</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>5</QuestionId>
+    <QuestionText>Виберiть найбiльш пiдходящу вiдповiдь. Модифiкатори доступа</QuestionText>
+    <CorrectAnswer>1</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>6</QuestionId>
+    <QuestionText>Для пiдрахунку кiлькостi елементiв списку ми використовуємо</QuestionText>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>7</QuestionId>
+    <QuestionText>Який з класiв реалiзує наступнi iнтерфеси: IList, ICollection, IEnumerable</QuestionText>
+    <CorrectAnswer>1</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>8</QuestionId>
+    <QuestionText>Для серiалiзацiї обєкта певного класа ми помiчаємо цей клас наступним атрибутом</QuestionText>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>9</QuestionId>
+    <QuestionText>В .NET не можна використовувати наступний формат:</QuestionText>
+    <CorrectAnswer>4</CorrectAnswer>
+  </Question>
+  <Question>
+    <QuestionId>10</QuestionId>
+    <QuestionText>Що з перелiченого не є рiзновидом LINQ:</QuestionText>
+    <CorrectAnswer>2</CorrectAnswer>
+  </Question>
+</ArrayOfQuestion>

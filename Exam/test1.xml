@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<test name="Test1">
+  <question questionId="1" correctAnswer="3" questionText="Вкажiть неiснуючий тип даних">
+      <answer answerId = "1" answerText="uint" />
+      <answer answerId = "2" answerText="ulong" />
+      <answer answerId = "3" answerText="ubool." />
+      <answer answerId = "4" answerText="object" />
+  </question>
+  <question questionId="2" correctAnswer="2" questionText="Вкажiть масив масивiв (Зубчатий масив)">
+    <answer answerId = "1" answerText="int[,,] nums = new int[2, 3, 4]" />
+    <answer answerId = "2" answerText="int[][] nums = new int[3][]." />
+    <answer answerId = "3" answerText="int[] nums = new int[] { 0, 1, 2, 3, 4, 5 }" />
+    <answer answerId = "4" answerText="int[,] nums = { { 0, 1, 2 }, { 3, 4, 5 } }" />
+  </question>
+  <question questionId="3" correctAnswer="3" questionText="До умовних конструкцiй не вiдноситься">
+    <answer answerId = "1" answerText="Конструкцiя if/else" />
+    <answer answerId = "2" answerText="Конструкцiя switch" />
+    <answer answerId = "3" answerText="Бiнарна операцiя." />
+    <answer answerId = "4" answerText="Тернарна операцiя" />
+  </question>
+  <question questionId="4" correctAnswer="1" questionText="Вставте на мiсце *Х правельний цикл. *Х ([iнiцiалiзацiя лiчильника]; [умова]; [змiна лiчильника]){//дiя}">
+    <answer answerId = "1" answerText="for." />
+    <answer answerId = "2" answerText="foreach" />
+    <answer answerId = "3" answerText="while" />
+    <answer answerId = "4" answerText="do" />
+  </question>
+  <question questionId="5" correctAnswer="1" questionText="Виберiть найбiльш пiдходящу вiдповiдь. Модифiкатори доступа">
+    <answer answerId = "1" answerText="public, private, protected, internal, protected internal." />
+    <answer answerId = "2" answerText="public, private, protected" />
+    <answer answerId = "3" answerText="public, private, protected, protected internal" />
+    <answer answerId = "4" answerText="public, private, protected, protected internal" />
+  </question>
+  <question questionId="6" correctAnswer="2" questionText="Для пiдрахунку кiлькостi елементiв списку ми використовуємо">
+    <answer answerId = "1" answerText="List.Length" />
+    <answer answerId = "2" answerText="List.Count." />
+    <answer answerId = "3" answerText="List.Size" />
+    <answer answerId = "4" answerText="List.Sizeof" />
+  </question>
+  <question questionId="7" correctAnswer="1" questionText="Який з класiв реалiзує наступнi iнтерфеси: IList, ICollection, IEnumerable">
+    <answer answerId = "1" answerText="ArrayList." />
+    <answer answerId = "2" answerText="BitArray" />
+    <answer answerId = "3" answerText="SortedList" />
+    <answer answerId = "4" answerText="Stack" />
+  </question>
+  <question questionId="8" correctAnswer="2" questionText="Для серiалiзацiї обєкта певного класа ми помiчаємо цей клас наступним атрибутом">
+    <answer answerId = "1" answerText="[Serialization]" />
+    <answer answerId = "2" answerText="[Serializable]." />
+    <answer answerId = "3" answerText="[Serialized]" />
+    <answer answerId = "4" answerText="[NonSerialized]" />
+  </question>
+  <question questionId="9" correctAnswer="4" questionText="В .NET не можна використовувати наступний формат:">
+    <answer answerId = "1" answerText="SOAP" />
+    <answer answerId = "2" answerText="XML" />
+    <answer answerId = "3" answerText="Бiнарный" />
+    <answer answerId = "4" answerText="JSAN." />
+  </question>
+  <question questionId="10" correctAnswer="2" questionText="Що з перелiченого не є рiзновидом LINQ:">
+    <answer answerId = "1" answerText="LINQ to Objects" />
+    <answer answerId = "2" answerText="LINQ to File" />
+    <answer answerId = "3" answerText="LINQ to Entities and LINQ to Sql" />
+    <answer answerId = "4" answerText="Parallel LINQ (PLINQ) and LINQ to XML" />
+  </question>
+</test>
